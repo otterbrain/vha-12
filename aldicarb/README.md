@@ -1,4 +1,4 @@
 # Aldicarb sensisitivty data
 
-- aldicarb hyposensitivity suggests decreased neuortransmitter release
-- aldicarb hypersenitivity suggests increased neurotransmitter release
+- aldicarb hyposensitivity suggests decreased neurotransmitter release
+- aldicarb hypersensitivity suggests increased neurotransmitter release
